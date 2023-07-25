@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Kuldip Hiralal Mori, Working as DevOps Enginee
 
 - 🔭 I’m currently working on, Shell Scripting 💻 | Docker 🐳 | Redhat 🔴🎩.
 
-- 🌱 I’m continuously learning Ansible 🤖 & | AWS ☁️.
+- 🌱 I’m continuously learning Ansible 🤖 & AWS ☁️.
 
 - 👯 I’m looking to collaborate on Ansible Projects & shell scripting.
 
