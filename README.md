@@ -29,3 +29,5 @@ Medium ->> [Medium](https://medium.com/@morikuldip)
 Script ->> [Script for Install software](https://github.com/kuldipmori/script)
 
 PHP-based-setup ->> [ansible-php-nginx-setup](https://github.com/vcian/ansible-php-nginx-setup)
+
+Basic Installation playbook ->> [ansible-software-install](https://github.com/kuldipmori/ansible-software-install)
