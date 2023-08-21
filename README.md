@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Kuldip Hiralal Mori, Working as DevOps Enginee
 
 ## 🌐 My Blog
 
-Visit my blog for more about my articles I've written: [medium](https://medium.com/@morikuldip).
+Visit my blog for more about my articles I've written: [medium](https://kuldipmori.medium.com).
 
 ## 🤝 Connect with Me
 
@@ -22,7 +22,7 @@ Let's connect and collaborate! Feel free to reach out to me on:
 
 LinkedIn ->> [LinkedIn](https://in.linkedin.com/in/morikuldip37)
 
-Medium ->> [Medium](https://medium.com/@morikuldip)
+Medium ->> [Medium](https://kuldipmori.medium.com)
 
 ## 📢 Recent GitHub Activity
 
