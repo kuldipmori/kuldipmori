@@ -26,8 +26,10 @@ Medium ->> [Medium](https://kuldipmori.medium.com)
 
 ## 📢 Recent GitHub Activity
 
-Script ->> [Script for Install software](https://github.com/kuldipmori/script)
+Script ->> [script-for-Install-software](https://github.com/kuldipmori/scripts-for-software-install.git)
 
 PHP-based-setup ->> [ansible-php-nginx-setup](https://github.com/vcian/ansible-php-nginx-setup)
 
 Basic Installation playbook ->> [ansible-software-install](https://github.com/kuldipmori/ansible-software-install)
+
+Ansible target host as Vagrant ->> [ansible-with-HashiCorp-Vagrant](https://github.com/kuldipmori/ansible-with-vagrant.git)
